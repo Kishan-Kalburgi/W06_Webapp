@@ -5,6 +5,7 @@ Open a command window in your c:\44563\m06 folder.
 Run npm install to install all the dependencies in the package.json file.
 Run node server.js to start the server. (Hit CTRL-C to stop.)
 ```
+> testing
 > npm install
 > node server.js
 ```
